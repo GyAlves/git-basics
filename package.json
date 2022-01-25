@@ -1,0 +1,8 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:GyAlves/git-basics.git",
+  "author": "GyAlves <gyasminassuncao@uni9.edu.br>",
+  "license": "MIT"
+}
